@@ -1,0 +1,15 @@
+.container {
+    margin-top: 20px;
+}
+
+.input-container {
+    margin-bottom: 10px;
+}
+
+label {
+    display: block;
+}
+
+button {
+    margin-top: 5px;
+}
